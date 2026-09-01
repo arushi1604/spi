@@ -58,19 +58,19 @@ TOTAL ERROR COUNT  : 0
 
 ### Simulation Result
 
-![Simulation Result](screenshots/simulation_result.png)
+![Simulation Result](result/simulation_result.png)
 
 ### Waveforms — All 4 SPI Modes
 
 **Mode 0 (CPOL=0, CPHA=0)**
-![Mode 0 Waveform](screenshots/mode_0.png)
+![Mode 0 Waveform](result/mode_0.png)
 
 **Mode 1 (CPOL=0, CPHA=1)**
-![Mode 1 Waveform](screenshots/mode_1.png)
+![Mode 1 Waveform](result/mode_1.png)
 
 **Mode 2 (CPOL=1, CPHA=0)**
-![Mode 2 Waveform](screenshots/mode_2.png)
+![Mode 2 Waveform](result/mode_2.png)
 
 **Mode 3 (CPOL=1, CPHA=1)**
-![Mode 3 Waveform](screenshots/mode_3.png)
+![Mode 3 Waveform](result/mode_3.png)
 
