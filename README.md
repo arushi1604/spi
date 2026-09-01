@@ -25,7 +25,7 @@ This project verifies a configurable **SPI (Serial Peripheral Interface) master 
 +-- design.sv              # SPI master, SPI slave, top-level wrapper (original design)
 +-- tb_iverilog.sv         # Self-checking testbench (written for Icarus Verilog)
 +-- README.md              # Project overview and quick-start guide
-+-- screenshots/           # Simulation and waveform screenshots
++-- result/           # Simulation and waveform screenshots
 ```
 
 ## Design Overview
