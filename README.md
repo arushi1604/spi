@@ -74,7 +74,3 @@ TOTAL ERROR COUNT  : 0
 **Mode 3 (CPOL=1, CPHA=1)**
 ![Mode 3 Waveform](screenshots/mode_3.png)
 
-## Reference
-
-- Piyu Dhaker, Analog Devices, [Introduction to SPI Interface](https://www.analog.com/en/resources/analog-dialogue/articles/introduction-to-spi-interface.html)
-- Original design: [SakshamPal6/Complete_SPI](https://github.com/SakshamPal6/Complete_SPI)
